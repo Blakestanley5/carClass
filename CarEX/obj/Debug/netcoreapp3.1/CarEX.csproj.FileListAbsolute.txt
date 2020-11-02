@@ -1,0 +1,13 @@
+C:\Users\Conjur\repos\CarEX\CarEX\bin\Debug\netcoreapp3.1\CarEX.exe
+C:\Users\Conjur\repos\CarEX\CarEX\bin\Debug\netcoreapp3.1\CarEX.deps.json
+C:\Users\Conjur\repos\CarEX\CarEX\bin\Debug\netcoreapp3.1\CarEX.runtimeconfig.json
+C:\Users\Conjur\repos\CarEX\CarEX\bin\Debug\netcoreapp3.1\CarEX.runtimeconfig.dev.json
+C:\Users\Conjur\repos\CarEX\CarEX\bin\Debug\netcoreapp3.1\CarEX.dll
+C:\Users\Conjur\repos\CarEX\CarEX\bin\Debug\netcoreapp3.1\CarEX.pdb
+C:\Users\Conjur\repos\CarEX\CarEX\obj\Debug\netcoreapp3.1\CarEX.csprojAssemblyReference.cache
+C:\Users\Conjur\repos\CarEX\CarEX\obj\Debug\netcoreapp3.1\CarEX.AssemblyInfoInputs.cache
+C:\Users\Conjur\repos\CarEX\CarEX\obj\Debug\netcoreapp3.1\CarEX.AssemblyInfo.cs
+C:\Users\Conjur\repos\CarEX\CarEX\obj\Debug\netcoreapp3.1\CarEX.csproj.CoreCompileInputs.cache
+C:\Users\Conjur\repos\CarEX\CarEX\obj\Debug\netcoreapp3.1\CarEX.dll
+C:\Users\Conjur\repos\CarEX\CarEX\obj\Debug\netcoreapp3.1\CarEX.pdb
+C:\Users\Conjur\repos\CarEX\CarEX\obj\Debug\netcoreapp3.1\CarEX.genruntimeconfig.cache
